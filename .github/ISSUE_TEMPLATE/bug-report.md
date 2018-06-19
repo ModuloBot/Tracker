@@ -23,4 +23,4 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 
-`do-not-delete | bot:issue-type=bug`
+`do-not-delete-or-modify|bot:issue-type=bug`
