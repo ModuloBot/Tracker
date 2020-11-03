@@ -1,6 +1,9 @@
 ---
 name: Bug Report
 about: Create a report to help find problems in Modulo
+title: ''
+labels: bug
+assignees: NovusTheory
 
 ---
 
